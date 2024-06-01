@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--  Palette 1  -->
+    <color name="CustomWhite">#fffcf2</color>
+    <color name="CustomCream">#ccc5b9</color>
+    <color name="CustomBrown">#403d39</color>
+    <color name="CustomBlack">#252422</color>
+    <color name="CustomOrange">#eb5e28</color>
+<!--  Palette 2  -->
+    <color name="Custom2LightYellow">#eae2b7</color>
+    <color name="Custom2Yellow">#fcbf49</color>
+    <color name="Custom2Orange">#f77f00</color>
+    <color name="Custom2Red">#d62828</color>
+    <color name="Custom2Black">#003049</color>
+<!--  Palette 3  -->
+    <color name="Custom3LightBlue">#8ecae6</color>
+    <color name="Custom3Blue">#219ebc</color>
+    <color name="Custom3DarkBlue">#023047</color>
+    <color name="Custom3Yellow">#ffb703</color>
+    <color name="Custom3Orange">#fb8500</color>
+</resources>
