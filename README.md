@@ -2,7 +2,7 @@
 
 Foodculator is an Android application developed as a final project for the **UYG201 - Introduction to Android Application Development** course at Istanbul Aydin University during the 2023-2024 fall semester.
 
-DietApp calculates the nutritional values (such as protein, carbs, and calories) of diet plans, generates personalized diet plans based on the nutritional values entered by the user, and allows users to create custom food entries if their specific foods are not found in the database.
+Foodculator calculates the nutritional values (such as protein, carbs, and calories) of diet plans, generates personalized diet plans based on the nutritional values entered by the user, and allows users to create custom food entries if their specific foods are not found in the database.
 
 ## Used Technologies
 
