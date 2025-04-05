@@ -16,6 +16,4 @@ The app uses vector math and Euclidean distance to generate diet plans, and even
 
 ## Screenshot
 
-<img src="Screenshots/Screenshot_1743860250.png" width="200" /> <img src="Screenshots/Screenshot_1743861468.png" width="200" />
-
-<img src="Screenshots/Screenshot_1743860875.png" width="200" /> <img src="Screenshots/Screenshot_1743860913.png" width="200" />
+<img src="Screenshots/Screenshot_1743860250.png" width="200" /> <img src="Screenshots/Screenshot_1743861468.png" width="200" /> <img src="Screenshots/Screenshot_1743860875.png" width="200" /> <img src="Screenshots/Screenshot_1743860913.png" width="200" />
