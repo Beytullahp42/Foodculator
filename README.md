@@ -10,8 +10,9 @@ The application is built using Java and XML, leveraging Android Studio for devel
 
 ## Screenshot
 
-![image](Screenshots/Screenshot_1743860250.png) ![image](Screenshots/Screenshot_1743860875.png)
-![image](Screenshots/Screenshot_1743861468.png) ![image](Screenshots/Screenshot_1743860913.png)
+<img src="Screenshots/Screenshot_1743860250.png" width="300" /> <img src="Screenshots/Screenshot_1743861468.png" width="300" />
+
+<img src="Screenshots/Screenshot_1743860875.png" width="300" /> <img src="Screenshots/Screenshot_1743860913.png" width="300" />
 
 ## Disclaimer
 
