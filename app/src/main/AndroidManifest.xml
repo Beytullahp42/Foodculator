@@ -21,6 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AddYourOwnMenu" />
+        <activity android:name=".AddFood" />
+        <activity android:name=".DietPlan" />
+        <activity android:name=".FoodLibrary" />
     </application>
 
 </manifest>
